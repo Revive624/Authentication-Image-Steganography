@@ -1,0 +1,8 @@
+easydict==1.13
+lpips==0.1.4
+natsort==8.4.0
+numpy==2.0.2
+pillow==11.0.0
+scikit-image==0.24.0
+torch==2.4.0
+torchvision==0.19.0
